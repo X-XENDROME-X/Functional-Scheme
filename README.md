@@ -4,7 +4,7 @@ This repository contains a collection of Scheme code which covers topics such as
 
 ## Table of Contents
 
-- [Functions](#functions)
+- #functions
 - [Final Fantasy Calculation Functions](#final-fantasy-calculation-functions)
 - [Recursive Math](#recursive-math)
 - [List Manipulation](#list-manipulation)
